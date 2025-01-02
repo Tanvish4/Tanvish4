@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Tanvish k
+- 👋 Hi, I’m @Tanvish K
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning C & C++
